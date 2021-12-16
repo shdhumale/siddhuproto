@@ -3,7 +3,7 @@
 
 package com.example.tutorial.protos;
 
-//Added comments
+//Added comments to override
 /**
  * Protobuf type {@code tutorial.Person}
  */
